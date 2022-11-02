@@ -11,4 +11,4 @@ Una vez aqui, se debe crear un usuario en el sistema, consumiendo el endpoint */
 
 Luego se debe generar las credenciales para consumir el resto de los endpoint, consumiendo el endpoint */auth/signin*.
 
-Las llamadas a los demás endpoints deben incluir el header *Authorization* con el contenido: Bearer <accessToken>.
+Las llamadas a los demás endpoints deben incluir el header *Authorization* con el contenido: *Bearer < accessToken >*.
